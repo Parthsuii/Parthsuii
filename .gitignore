@@ -1,0 +1,8 @@
+# Don't push the source photo or generator script — only the README
+photo.jpg
+photo.png
+photo.*
+generate_profile.py
+requirements.txt
+__pycache__/
+*.pyc
